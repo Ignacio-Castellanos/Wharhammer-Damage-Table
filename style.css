@@ -1,0 +1,72 @@
+table{
+	width: 100%;
+   border-spacing: 0px;
+	border:1px solid black;
+}
+
+thead th{
+	
+	padding:4px 0;
+}
+
+body{
+	font-family: sans-serif;
+	max-width:750px;
+	margin:20px auto;
+	padding:20px;
+}
+
+tbody td{ padding:8px 0;}
+
+tfoot td{ 
+	text-align: center;
+	color:black;
+	font-weight:bold;
+	margin-top:20px;
+		padding:10px 0;
+}
+
+body table {background: url(https://forums.runehammer.online/uploads/default/original/2X/f/fe4aeffb6ebebc1be37be3ea1fbc7fa6834dc03b.gif) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;}
+
+tbody {color: white;}
+th {color: white;}
+tfoot {color: white;}
+
+
+
+*{border: solid white 2px;}
+
+body {background: url(https://media1.giphy.com/media/l1KXtGiWieAhji91u/giphy.gif?cid=ecf05e4708wjg2tkk9kph3fo1bq40pgskwh4i5o1biguz1sy&rid=giphy.gif&ct=g) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;}
+
+h1{color: white;}
+h2{color: white;}
+
+body{margin:100px auto;
+}
+
+th{width: 8%;
+ 
+   border-spacing: 5px;
+	border:1px solid black;
+  }
+h1 {background: url(https://forums.runehammer.online/uploads/default/original/2X/f/fe4aeffb6ebebc1be37be3ea1fbc7fa6834dc03b.gif) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;}
+h2 {background: url(https://forums.runehammer.online/uploads/default/original/2X/f/fe4aeffb6ebebc1be37be3ea1fbc7fa6834dc03b.gif) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;}
+       
+
+img{border-radius:80px;}
